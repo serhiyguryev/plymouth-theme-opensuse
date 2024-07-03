@@ -8,8 +8,8 @@ A [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/) theme that dis
 
 You can download this theme here:
 
-* KDE Store: [https://store.kde.org/p/2169274](https://store.kde.org/p/2169274)
-* Pling: [https://www.pling.com/p/2169274](https://www.pling.com/p/2169274)
+* KDE Store: [https://store.kde.org/p/2172466](https://store.kde.org/p/2172466)
+* Pling: [https://www.pling.com/p/2172466](https://www.pling.com/p/2172466)
 
 Or you can download source code archive from the [repository view](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view)
 
