@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=openSUSE
+Description=A theme that displays the openSUSE logotype
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/opensuse-logo
+ScriptFile=/usr/share/plymouth/themes/opensuse-logo/opensuse-logo.script
