@@ -4,6 +4,9 @@ A [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/) theme that dis
 
 <img src="assets/screenshots/1854633.jpg" alt="" style="display: inline-block; margin: 15px 0 15px 0; max-width: 850px">
 
+> [!NOTE]
+> [openSUSE Splash Screen](https://github.com/serhiyguryev/opensuse-splashscreen) for Plasma 6 is part of this project.
+
 ## Download and installation instructions
 
 You can download this theme here:
