@@ -36,13 +36,6 @@ quiet splash loglevel=3 vt.global_cursor_default=0
 * openSUSE [Splash Screen](https://github.com/serhiyguryev/opensuse-splashscreen) for Plasma 6
 * Blueberry: a dark [color scheme](https://github.com/serhiyguryev/blueberry-color-scheme) for the KDE Plasma 5/6 desktop environment
 
-## Support my work
-
-You can support the further development of this project by choosing a convenient way to donate:
-
-* **Bitcoin (BTC)**: bc1q6qtnwc2pdktvl48mr9hf0qmhaxfm7xseftp78a
-* **Ether (ETH)**: 0x185e4FB1f662223B011dedbBd42A444891b094f5
-
 ## License
 
 Licensed under the [GNU General Public License v3.0](https://github.com/serhiyguryev/plymouth-theme-opensuse/blob/main/LICENSE)
